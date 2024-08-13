@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933620950170",
+    "project_id": "docwise-72d23",
+    "storage_bucket": "docwise-72d23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933620950170:android:f81fbcedca89c5a0c6ab23",
+        "android_client_info": {
+          "package_name": "com.example.docwise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2geC_eVM6SDPxHeKVZTz7En6ZCBdcHBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
