@@ -5,15 +5,15 @@
 
 ## Getting Started
 
-Front-End:
+## Front-End:
 DocWise leverages a technology stack comprising Flutter for cross-platform app
 development. Flutter enables seamless development across various platforms, ensuring consistent performance and user experience.
 
-Back-End:
+## Back-End:
 DocWise uses the Firebase🔥 for backend services. Firebase, on the other hand, provides a
 robust backend infrastructure for handling user authentication, data storage, and real-time communication.
 
-Database:
+## Database:
 DocWise used Firebase🔥 as dynamic database services
 
 A few resources to get you started if this is your first Flutter project:
